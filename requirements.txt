@@ -1,0 +1,12 @@
+chromadb
+langchain
+pypdf
+sentence-transformers
+openai
+python-dotenv
+numpy
+umap-learn
+torch
+matplotlib
+scikit-learn
+transformers
