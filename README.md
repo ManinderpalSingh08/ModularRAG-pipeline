@@ -17,5 +17,5 @@ This repository contains a modular RAG pipeline that processes PDF documents, re
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/rag-pipeline.git
-   cd rag-pipeline
+   git https://github.com/ManinderpalSingh08/ModularRAG-pipeline.git
+   cd ModularRAG-pipeline
